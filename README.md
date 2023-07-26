@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://thisisehtesham.github.io/">
-    <img alt="Mockup" src="https://user-images.githubusercontent.com/64855541/148080556-ec9d5062-1092-4bd4-ba12-82a153e32985.png" />
-  </a>
+    <img alt="Mockup" src="https://github.com/thisisehtesham/thisisehtesham.github.io/assets/109310046/95da9816-140a-45e4-8811-811f7d08d9a4" />
+
 </div>
 
 <br/>
